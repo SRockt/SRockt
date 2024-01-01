@@ -79,7 +79,6 @@ window.addEventListener('click', function(event) {
 window._csp_external_script_nonce = "e2lVsGiUH3tX0noOW1W+"</script><link href="https://cfl.dropboxstatic.com" rel="preconnect" /><link href="https://cfl.dropboxstatic.com/static/metaserver/static/images/favicon-vfl8lUR9B.ico" rel="shortcut icon" /><title>Dropbox</title><meta content="noindex, nofollow, noimageindex" name="robots" /><meta content="origin-when-cross-origin" name="referrer" /><meta content="width=device-width, initial-scale=1" name="viewport" /><meta content="app-id=327630330" name="apple-itunes-app" /><script type="text/javascript" nonce="AwAFyR8mbB48mik7l2cB">if (window.performance && window.performance.mark) { window.performance.mark("requirejs_start"); }</script> <link crossorigin="anonymous" href="https://cfl.dropboxstatic.com/static/metaserver/static/js/alameda_bundle/alameda_bundle_chrome_de-vflU8rBSF.js" as="script" nonce="e2lVsGiUH3tX0noOW1W+" rel="preload" type="text/javascript" /> <script type="text/javascript" nonce="AwAFyR8mbB48mik7l2cB">
             (()=>{"use strict";const e=window;let a;const r=()=>{a=[],e.addRequireLoadCallback=e=>a.push(e),e.configureRequire=function(){const a=arguments;e.addRequireLoadCallback(()=>e.configureRequire.apply(null,a))},e.define=function(){const a=arguments;e.addRequireLoadCallback(()=>e.define.apply(null,a))},e.preLoadFile=(...a)=>{e.addRequireLoadCallback(()=>e.preLoadFile.apply(null,a))}};r(),e._insertRequireShim=r,e.InitRequireJs=r=>{e.requireContexts={},e.performance&&null!=e.performance.now&&(requirejs.onResourceLoad=(a,r,i)=>{const l=e.performance.now(),n=e.requireContexts[a.id];if(n){r.id in n.module_callback_times||(n.module_callback_times[r.id]={});const e=n.module_callback_times[r.id];e.loadTime=l,r.url&&(e.url=r.url),r.id&&(e.name=r.id),r.parentMap&&r.parentMap.url&&(e.parent=r.parentMap.url)}}),e.configureRequire=r,e.addRequireLoadCallback=e=>e(),a.forEach(e=>e())}})();
 
-
             window.CSP_SCRIPT_NONCE = "AwAFyR8mbB48mik7l2cB";
             </script> <script async="async" crossorigin="anonymous" src="https://cfl.dropboxstatic.com/static/metaserver/static/js/alameda_bundle/alameda_bundle_chrome_de-vflU8rBSF.js" type="text/javascript" nonce="e2lVsGiUH3tX0noOW1W+"></script> <link crossorigin="anonymous" href="https://cfl.dropboxstatic.com/static/metaserver/static/fonts/paper-atlasgrotesk/AtlasGrotesk-Regular-Web-vflk7bxjs.woff2" as="font" rel="preload" type="font/woff2" /><link crossorigin="anonymous" href="https://cfl.dropboxstatic.com/static/metaserver/static/fonts/paper-atlasgrotesk/AtlasGrotesk-Medium-Web-vfl38XiTL.woff2" as="font" rel="preload" type="font/woff2" />  <style>
             * { font-weight: inherit; }
@@ -391,7 +390,7 @@ window.React = React;;
         ensemble.processChunk("embedded-app", "prefetch-dropins_browse-DropinsRecentPrefetch-1", function(){window["__REGISTER_DROPINS_CHOOSER_RECENT_PRELOAD_HANDLER"].responseReceived("{\"file_info\": [], \"navigation_cursor\": \"AAAZicZ_EGjH1pfz3_MvcElTHKqgi2FPhuoIc-1RN79yonCwMlPXrJUzgRcRPjcmelwQm-EazLabQCgPa-lxo86OZmrNI9hdrddcnzjZhjdJ2JhwrwHYJy3ZTUN0OPpsFhQ\"}")});
         </script><script async="async" src="/page_success/end?dws_page_name=dropins_chooser&amp;path=%2Fchooser&amp;request_id=ed3a2f982fbc44ee85d2e8dff6a516e7&amp;time=1704061203" nonce="e2lVsGiUH3tX0noOW1W+"></script></body></html><!--status=200--ng collaboration across the developer community every day, which is a responsibility we don’t take lightly. Together, we all have the exciting opportunity to make this a community we can be proud of.
 
-GitHub Community, powered by GitHub Discussions, is intended to be a place for further collaboration, support, and brainstorming. This is a civilized place for connecting with other users, learning new skills, sharing feedback and ideas, and finding all the support you need for your GitHub projects. By participating in GitHub Community, you are agreeing to the same [Terms of Service](/site-policy/github-terms/github-terms-of-service) and [GitHub Acceptable Use Policies](/site-policy/acceptable-use-policies/github-acceptable-use-policies) that apply to GitHub.com, as well as this GitHub Community-specific Code of Conduct.
+GitHub Community, powered by GitHub Discussions, is intended to be a place for further collaboration, support, and brainstorming. This is a civilized place for connecting with other users, learning new skills, sharing feedback and ideas, and finding all the support you need for your GitHub projects. By participating in GitHub Community, you are agreeing to the same [Terms of Service][def] and [GitHub Acceptable Use Policies][def2] that apply to GitHub.com, as well as this GitHub Community-specific Code of Conduct.
 
 With this Code of Conduct, we hope to help you understand how best to collaborate in GitHub Community, what you can expect from moderators, and what type of actions or content may result in temporary or permanent suspension from community participation. We will investigate any abuse reports and may moderate public content within GitHub Community that we determine to be in violation of either the GitHub Terms of Service or this Code of Conduct.
 
@@ -444,15 +443,15 @@ The primary purpose of the GitHub community is to collaborate on software projec
 
 ### _What is not Allowed_
 
-GitHub's [Acceptable Use Policies](/site-policy/acceptable-use-policies/github-acceptable-use-policies), which are part of GitHub's [Terms of Service](/site-policy/github-terms/github-terms-of-service), set a baseline for what is not allowed on GitHub. Since GitHub Community is on GitHub.com, these terms and restrictions apply to GitHub Community, including the following restrictions:
+GitHub's [Acceptable Use Policies][def2], which are part of GitHub's [Terms of Service][def], set a baseline for what is not allowed on GitHub. Since GitHub Community is on GitHub.com, these terms and restrictions apply to GitHub Community, including the following restrictions:
 
-- **Anyone under the age of 13.** If you're a child under the age of 13, you may not have an account on GitHub. GitHub does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close your GitHub.com account. We don't want to discourage you from learning to code, but those are the rules. Please see our [Terms of Service](/site-policy/github-terms/github-terms-of-service) for information about account termination.
+- **Anyone under the age of 13.** If you're a child under the age of 13, you may not have an account on GitHub. GitHub does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close your GitHub.com account. We don't want to discourage you from learning to code, but those are the rules. Please see our [Terms of Service][def] for information about account termination.
 
-- **Creating new account after account restriction.** GitHub's [Terms of Service](/site-policy/github-terms/github-terms-of-service) state that "One person or legal entity may maintain no more than one free Account." Additional free accounts created to inquire about flagged or suspended accounts in GitHub will be removed.
+- **Creating new account after account restriction.** GitHub's [Terms of Service][def] state that "One person or legal entity may maintain no more than one free Account." Additional free accounts created to inquire about flagged or suspended accounts in GitHub will be removed.
 
 - **Other conduct which could reasonably be considered inappropriate in a professional setting.** GitHub Community is a professional space and should be treated as such.
 
-- **Violation of Terms of Service.** If your GitHub.com account is identified in violation of [Terms of Service](/site-policy/github-terms/github-terms-of-service) we will have to close your account.  
+- **Violation of Terms of Service.** If your GitHub.com account is identified in violation of [Terms of Service][def] we will have to close your account.  
 
 ### _Reasonable use of AI generated content_
 
@@ -490,18 +489,26 @@ Actions we may take in response to a flag or abuse report include, but are not l
 
 GitHub Community moderators who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the GitHub Community's leadership.
 
+$$
 ## Contacting GitHub Staff
 
+$$
 If, for any reason, you want to contact GitHub Staff, the Community Managers, Administrators, or Moderators of GitHub Community privately, you can use our [Support contact form](https://support.github.com/contact?tags=docs-community-support). Contacting any member of GitHub Staff via unsolicited mentions or pings, or via channels other than GitHub Community itself, or the Support contact form is strongly discouraged and may be considered a violation of our prohibition against harassment.
 
 Let's work together to keep GitHub Community a place where people feel safe to participate by being respectful of them and their time.
 
 ## Legal Notices
+```python
 
-Yes, legalese is boring, but we must protect ourselves – and by extension, you and your data – against unfriendly folks. We have a [Terms of Service](/site-policy/github-terms/github-terms-of-service), which includes our [Acceptable Use Policies](/site-policy/acceptable-use-policies/github-acceptable-use-policies), and our [Privacy Statement](/site-policy/privacy-policies/github-privacy-statement) describing your (and our) behavior and rights related to content, privacy, and laws. To use this service, you must agree to abide by our [Terms of Service](/site-policy/github-terms/github-terms-of-service), [GitHub Acceptable Use Policies](/site-policy/acceptable-use-policies/github-acceptable-use-policies) and the [Privacy Statement](/site-policy/privacy-policies/github-privacy-statement).
 
-This Code of Conduct does not modify our [Terms of Service](/site-policy/github-terms/github-terms-of-service)—which includes our [Acceptable Use Policies](/site-policy/acceptable-use-policies/github-acceptable-use-policies)—and is not intended to be a complete list. GitHub retains full discretion under the [Terms of Service](/site-policy/github-terms/github-terms-of-service) to remove or restrict any content or accounts for activity that violates those policies, including because it is unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable, or violates any party's intellectual property or our Terms of Service. This Code of Conduct describes when we will exercise that discretion.
+```Yes, legalese is boring, but we must protect ourselves – and by extension, you and your data – against unfriendly folks. We have a [Terms of Service][def], which includes our [Acceptable Use Policies][def2], and our [Privacy Statement][def2] describing your (and our) behavior and rights related to content, privacy, and laws. To use this service, you must agree to abide by our [Terms of Service][def], [GitHub Acceptable Use Policies][def2] and the [Privacy Statement][def2].
+
+This Code of Conduct does not modify our [Terms of Service][def]—which includes our [Acceptable Use Policies][def2]—and is not intended to be a complete list. GitHub retains full discretion under the [Terms of Service][def] to remove or restrict any content or accounts for activity that violates those policies, including because it is unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable, or violates any party's intellectual property or our Terms of Service. This Code of Conduct describes when we will exercise that discretion.
 
 ### Data Retention and Deletion of Data
 
-If you're a GitHub user, you may access, update, alter, or delete your basic user profile information by [editing your user profile](https://github.com/settings/profile) or contacting [GitHub Support](https://support.github.com/contact). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, will delete your full profile (within reason) within 90 days of your request. For more information please see the [GitHub Privacy Statement](/site-policy/privacy-policies/github-privacy-statement).
+If you're a GitHub user, you may access, update, alter, or delete your basic user profile information by [editing your user profile](https://github.com/settings/profile) or contacting [GitHub Support](https://support.github.com/contact). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements, but barring legal requirements, will delete your full profile (within reason) within 90 days of your request. For more information please see the [GitHub Privacy Statement][def2].
+
+[def]: /site-policy/github-terms/github-terms-of-service
+[def2]: /site-policy/privacy-policies/github-privacy-statement
+[def2]: /site-policy/acceptable-use-policies/github-acceptable-use-policies
